@@ -2,3 +2,4 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=1716595131
 warp://162.159.192.91:1010/?ifp=5-10
+warp://188.114.98.92:1070/?ifp=5-10
