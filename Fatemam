@@ -1,4 +1,4 @@
 #profile-title:jigaram
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-vmess://eyJ2IjoiMiIsInBzIjoiVGxvdS0yNzA3MSIsImFkZCI6ImxvdXlyYi5jZmQiLCJwb3J0IjoyNjU3MSwiaWQiOiJiYmU1M2QxYi02MDY5LTRiN2ItOWUwMC0xYjQ3YzQ0OTkyYjciLCJhaWQiOjAsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIn0=
+warp://162.159.192.150:3476/?ifp=5-10
