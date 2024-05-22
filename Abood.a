@@ -8,4 +8,3 @@ vless://93cd6bd9-20fc-4864-8b49-af4c43592056@185.146.173.70:8880?path=%2FTelegra
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.5.79:2053?path=%2Fp%3D19&security=tls&encryption=none&host=itcenteriran.blog&type=ws&sni=itcenteriran.blog#%40v2rayngvpn
 
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.64.106.51:2053?path=%2Fp%3D19&security=tls&encryption=none&host=itcenteriran.blog&type=ws&sni=itcenteriran.blog#%40v2rayngvpn
-warp://162.159.192.137:2371/?ifp=5-10
