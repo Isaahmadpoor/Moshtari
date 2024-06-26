@@ -1,1 +1,4 @@
+#profile-title: EisaA7
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=1719705531
 vless://48c3ceb0-6716-430a-8b5b-8810beb858dc@1.shecanmarket.com:8443?security=none&encryption=none&host=head.shecanmarket.com&type=tcp&headerType=http&path=%2F#shecan+5778878043
