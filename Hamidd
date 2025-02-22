@@ -1,6 +1,6 @@
 #profile-title: base64:VFZDIHwgV0FSUA==
 #profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=1714607931
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/v2raycollector
 #profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector
 
@@ -137,16 +137,16 @@
         },
         {
             "type": "wireguard",
-            "server": "162.159.192.184",
-            "server_port": 908,
+            "server": "162.159.192.70",
+            "server_port": 3476,
             "local_address": [
                 "172.16.0.2\/32",
-                "2606:4700:110:85b5:4181:2c56:e84c:720d\/128"
+                "2606:4700:110:8343:556e:7571:b019:e37a\/128"
             ],
-            "private_key": "GIdLtk1TmNvkrduIgpahFMDaKjIy0dSk1m\/zXVV7E1c=",
+            "private_key": "QFvTHLO8x5ikeCvv4zdacKy6k5nw6mYFwDs2Rn09LE0=",
             "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5\/1SUtzH0JuVo51h2wPfgyo=",
             "mtu": 1280,
-            "reserved": "73Xd",
+            "reserved": "FA8H",
             "tag": "WARP"
         }
     ],
