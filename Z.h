@@ -1,1 +1,1 @@
-vless://175a2968-dba1-ff2b-604a-ee16acd9138a@mlo.pinkiepie.cfd:3050?security=none&type=tcp
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsYlExbEVtTzhqVndvaTZiZ2VLbmc3SThXVnhSNWg4YlJSdHpxNG53aS9VPQ==@3.77.155.174:2082#%40V2rayNGVPN
